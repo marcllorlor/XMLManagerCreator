@@ -1,0 +1,3389 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Resum dels residus de cada municipi-->
+<Comarques>
+  <ResumRecullidaDades>
+    <nomMunicipi nomMunicipi="Deltebre">
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2000">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>63.45</TonesRecollides>
+          <Percentatge>9,71218888736399E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>110.15</TonesRecollides>
+          <Percentatge>0,000168604823631701%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>9.55</TonesRecollides>
+          <Percentatge>1,46180305554493E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,48</TonesRecollides>
+          <Percentatge>7,34728237341956E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>183.63</TonesRecollides>
+          <Percentatge>0,000281079471298132%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>3.6</TonesRecollides>
+          <Percentatge>5,51046178006467E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>18.08</TonesRecollides>
+          <Percentatge>2,7674763606547E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>4911,3</TonesRecollides>
+          <Percentatge>7,51764748345323E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4911.3</TonesRecollides>
+          <Percentatge>0,000751764748345323%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>96.4</TonesRecollides>
+          <Percentatge>1,4755792099951E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>5094.93</TonesRecollides>
+          <Percentatge>0,00779872695475136%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.37</TonesRecollides>
+          <Percentatge>2,09703684408017E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>501.62</TonesRecollides>
+          <Percentatge>0,000767821621698901%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>653302,78</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2001">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>131.34</TonesRecollides>
+          <Percentatge>9,25985239764257E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>89.79</TonesRecollides>
+          <Percentatge>6,33045642442764E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>122.62</TonesRecollides>
+          <Percentatge>8,64506700928073E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>20.23</TonesRecollides>
+          <Percentatge>1,42627389983485E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>63.1</TonesRecollides>
+          <Percentatge>4,44873371624217E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,6</TonesRecollides>
+          <Percentatge>4,23017469056307E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,34</TonesRecollides>
+          <Percentatge>2,39709899131908E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>472,44</TonesRecollides>
+          <Percentatge>3,33083955134936E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>900.46</TonesRecollides>
+          <Percentatge>0,000634850516977404%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>13.93</TonesRecollides>
+          <Percentatge>9,82105557325727E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>88.65</TonesRecollides>
+          <Percentatge>6,25008310530694E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>5562,76</TonesRecollides>
+          <Percentatge>3,92190776027944E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>5562.76</TonesRecollides>
+          <Percentatge>0,00392190776027944%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>86.07</TonesRecollides>
+          <Percentatge>6,06818559361273E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>6463.22</TonesRecollides>
+          <Percentatge>0,00455675827725685%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.74</TonesRecollides>
+          <Percentatge>1,22675066026329E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>636.33</TonesRecollides>
+          <Percentatge>0,000448631176807667%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1418381,14</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2002">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>25.94</TonesRecollides>
+          <Percentatge>2,33386941252071E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>266.46</TonesRecollides>
+          <Percentatge>0,000239738952837421%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>106.36</TonesRecollides>
+          <Percentatge>9,56940442234784E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>117.44</TonesRecollides>
+          <Percentatge>0,000105662923595386%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>23.48</TonesRecollides>
+          <Percentatge>2,11253869722384E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>100.31</TonesRecollides>
+          <Percentatge>9,02507481765431E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0,35</TonesRecollides>
+          <Percentatge>3,14901424202872E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,7</TonesRecollides>
+          <Percentatge>6,29802848405744E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,44</TonesRecollides>
+          <Percentatge>3,95876076140753E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>1454,44</TonesRecollides>
+          <Percentatge>1,30858636405036E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2095.93</TonesRecollides>
+          <Percentatge>0,00188574669151293%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>28.84</TonesRecollides>
+          <Percentatge>2,59478773543166E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>200.03</TonesRecollides>
+          <Percentatge>0,000179970662523716%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>5171</TonesRecollides>
+          <Percentatge>4,65244361300871E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>5171</TonesRecollides>
+          <Percentatge>4,65244361300871E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>71.16</TonesRecollides>
+          <Percentatge>6,40239581322182E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7266.93</TonesRecollides>
+          <Percentatge>0,00653819030452164%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.9</TonesRecollides>
+          <Percentatge>1,70946487424416E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>693.54</TonesRecollides>
+          <Percentatge>0,000623990667833313%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1111458,93</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2003">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>38.31</TonesRecollides>
+          <Percentatge>3,11046882397233E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>346.6</TonesRecollides>
+          <Percentatge>2,8141177091851E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>121.78</TonesRecollides>
+          <Percentatge>9,88757226268209E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>150.98</TonesRecollides>
+          <Percentatge>0,0001225838118098%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>33.79</TonesRecollides>
+          <Percentatge>2,74348059415362E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>143.67</TonesRecollides>
+          <Percentatge>0,000116648670305431%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,65</TonesRecollides>
+          <Percentatge>5,2774856058001E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,55</TonesRecollides>
+          <Percentatge>4,46556474336931E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>691,77</TonesRecollides>
+          <Percentatge>5,61662495003744E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>1528.1</TonesRecollides>
+          <Percentatge>0,000124069626988048%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>23.86</TonesRecollides>
+          <Percentatge>1,93724317775985E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>142.85</TonesRecollides>
+          <Percentatge>0,000115982895198238%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>4876,16</TonesRecollides>
+          <Percentatge>3,95905603255049E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4876.16</TonesRecollides>
+          <Percentatge>0,00395905603255049%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>76.14</TonesRecollides>
+          <Percentatge>6,18196544654799E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>6404.26</TonesRecollides>
+          <Percentatge>0,00519975230243097%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.64</TonesRecollides>
+          <Percentatge>1,33155021438649E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>598.7</TonesRecollides>
+          <Percentatge>4,8609702033731E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1231647,13</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2004">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>22.32</TonesRecollides>
+          <Percentatge>2,56547654761338E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>317.9</TonesRecollides>
+          <Percentatge>3,65396502906046E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>130.04</TonesRecollides>
+          <Percentatge>0,000149468893481919%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>156.49</TonesRecollides>
+          <Percentatge>0,000179870710096782%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>35.15</TonesRecollides>
+          <Percentatge>4,04016579966892E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>177.54</TonesRecollides>
+          <Percentatge>0,000204065728612581%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,58</TonesRecollides>
+          <Percentatge>6,66656092121757E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,63</TonesRecollides>
+          <Percentatge>7,24126444890874E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>282,09</TonesRecollides>
+          <Percentatge>3,24236236252804E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>1122.74</TonesRecollides>
+          <Percentatge>0,00129048527735997%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>18.11</TonesRecollides>
+          <Percentatge>2,08157617729742E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>104.37</TonesRecollides>
+          <Percentatge>0,000119963614370255%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>5076,5</TonesRecollides>
+          <Percentatge>5,83496491664845E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>5076.5</TonesRecollides>
+          <Percentatge>0,000583496491664845%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>81.89</TonesRecollides>
+          <Percentatge>9,41249437652598E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>6199.24</TonesRecollides>
+          <Percentatge>0,00712545019400842%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.58</TonesRecollides>
+          <Percentatge>1,8160631475041E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>576.3</TonesRecollides>
+          <Percentatge>6,62403286016843E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>870013,8</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2005">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>20.3</TonesRecollides>
+          <Percentatge>1,30736704874093E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>332.18</TonesRecollides>
+          <Percentatge>0,00021393161884274%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>171.51</TonesRecollides>
+          <Percentatge>0,000110456415039191%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>138.53</TonesRecollides>
+          <Percentatge>8,92165306709759E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>45.28</TonesRecollides>
+          <Percentatge>2,91613694418667E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>239.87</TonesRecollides>
+          <Percentatge>0,000154481839399747%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,58</TonesRecollides>
+          <Percentatge>3,73533442497408E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,68</TonesRecollides>
+          <Percentatge>4,37935760169376E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>365</TonesRecollides>
+          <Percentatge>2,3506845950268E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>1313.93</TonesRecollides>
+          <Percentatge>0,000846201372587276%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>19.19</TonesRecollides>
+          <Percentatge>1,23588047612505E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>120.07</TonesRecollides>
+          <Percentatge>7,73278628287308E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>5531,89</TonesRecollides>
+          <Percentatge>3,56266537106377E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>5531.89</TonesRecollides>
+          <Percentatge>0,00356266537106377%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>80.81</TonesRecollides>
+          <Percentatge>5,20435129107165E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>6845.82</TonesRecollides>
+          <Percentatge>0,00440886674365105%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.71</TonesRecollides>
+          <Percentatge>1,10127963219064E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>625.59</TonesRecollides>
+          <Percentatge>0,000402894459124058%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1552739,15</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2006">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>61.27</TonesRecollides>
+          <Percentatge>3,56492154437964E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>368.04</TonesRecollides>
+          <Percentatge>0,000214139664630893%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>207.23</TonesRecollides>
+          <Percentatge>0,000120574292743886%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>154.25</TonesRecollides>
+          <Percentatge>8,9748514480261E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>44.82</TonesRecollides>
+          <Percentatge>2,60779800259663E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>240.04</TonesRecollides>
+          <Percentatge>0,000139664398157808%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,78</TonesRecollides>
+          <Percentatge>4,53833655070363E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,8</TonesRecollides>
+          <Percentatge>4,65470415456783E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>434,5</TonesRecollides>
+          <Percentatge>2,52808619394965E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>1511.73</TonesRecollides>
+          <Percentatge>0,000879581988948103%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>20.01</TonesRecollides>
+          <Percentatge>1,16425787666128E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>139.83</TonesRecollides>
+          <Percentatge>8,13584102416525E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>6041,32</TonesRecollides>
+          <Percentatge>3,51506966288422E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>6041.32</TonesRecollides>
+          <Percentatge>0,00351506966288422%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>79.99</TonesRecollides>
+          <Percentatge>4,65412231654851E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7553.05</TonesRecollides>
+          <Percentatge>0,00439465165183232%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.91</TonesRecollides>
+          <Percentatge>1,11131061690307E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>698.65</TonesRecollides>
+          <Percentatge>0,000406501132198602%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1718691,4</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2007">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>144.01</TonesRecollides>
+          <Percentatge>8,48987862444818E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>312.08</TonesRecollides>
+          <Percentatge>0,000183981759677647%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>230.94</TonesRecollides>
+          <Percentatge>0,00013614697378863%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>181.2</TonesRecollides>
+          <Percentatge>1,06823554388585E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>56.64</TonesRecollides>
+          <Percentatge>3,3391203755902E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>490.75</TonesRecollides>
+          <Percentatge>0,000289313793135751%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0,91</TonesRecollides>
+          <Percentatge>5,36475907801392E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,74</TonesRecollides>
+          <Percentatge>4,36255133816517E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,01</TonesRecollides>
+          <Percentatge>5,95429304263083E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>187,42</TonesRecollides>
+          <Percentatge>1,10490455648502E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>1605.69</TonesRecollides>
+          <Percentatge>0,000946608791645733%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>21.79</TonesRecollides>
+          <Percentatge>1,28459450890026E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>145.14</TonesRecollides>
+          <Percentatge>8,55649596244989E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>5763,03</TonesRecollides>
+          <Percentatge>3,39750192410622E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>5763.03</TonesRecollides>
+          <Percentatge>0,00339750192410622%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>78.21</TonesRecollides>
+          <Percentatge>4,61074513726889E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7368.73</TonesRecollides>
+          <Percentatge>0,00434411661109159%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.82</TonesRecollides>
+          <Percentatge>1,07295181560278E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>666.07</TonesRecollides>
+          <Percentatge>0,000392670887812388%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1696255,11</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2008">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>184.31</TonesRecollides>
+          <Percentatge>0,000112626639049563%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>418.2</TonesRecollides>
+          <Percentatge>2,55550216757242E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>211.99</TonesRecollides>
+          <Percentatge>0,000129541105811496%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>205.67</TonesRecollides>
+          <Percentatge>0,000125679132186662%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>66.52</TonesRecollides>
+          <Percentatge>4,06484945449348E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>410.9</TonesRecollides>
+          <Percentatge>2,51089392791847E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,92</TonesRecollides>
+          <Percentatge>5,62186033994888E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,05</TonesRecollides>
+          <Percentatge>6,4162536488547E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>259,06</TonesRecollides>
+          <Percentatge>1,58304254311648E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>1758.63</TonesRecollides>
+          <Percentatge>0,00107464915757003%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>23.99</TonesRecollides>
+          <Percentatge>1,46596119081928E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>153.66</TonesRecollides>
+          <Percentatge>9,3897289112668E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>5570,94</TonesRecollides>
+          <Percentatge>3,40424420024292E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>5570.94</TonesRecollides>
+          <Percentatge>0,00340424420024292%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>76.01</TonesRecollides>
+          <Percentatge>4,64475656999472E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7329.57</TonesRecollides>
+          <Percentatge>0,00447889335781295%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.75</TonesRecollides>
+          <Percentatge>1,06937560814245E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>640.42</TonesRecollides>
+          <Percentatge>0,00039134258683805%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1636468,97</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2009">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>487.51</TonesRecollides>
+          <Percentatge>0,000275460297004071%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>474.81</TonesRecollides>
+          <Percentatge>0,000268284350311795%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>288.89</TonesRecollides>
+          <Percentatge>0,000163233011018248%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>183.79</TonesRecollides>
+          <Percentatge>0,000103847814375866%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>144.07</TonesRecollides>
+          <Percentatge>8,14046173193914E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>353.93</TonesRecollides>
+          <Percentatge>0,000199982898645465%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>1,06</TonesRecollides>
+          <Percentatge>5,98937282977406E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,07</TonesRecollides>
+          <Percentatge>6,04587634703608E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>183,13</TonesRecollides>
+          <Percentatge>1,03474891161936E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2118.27</TonesRecollides>
+          <Percentatge>0,00119689705510618%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>28.63</TonesRecollides>
+          <Percentatge>1,61769569921162E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>180.26</TonesRecollides>
+          <Percentatge>0,000101853240216516%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>5281,07</TonesRecollides>
+          <Percentatge>2,98399029906933E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>5281.07</TonesRecollides>
+          <Percentatge>0,00298399029906933%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>71.37</TonesRecollides>
+          <Percentatge>4,03265602699033E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7399.34</TonesRecollides>
+          <Percentatge>0,00418088735417551%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.73</TonesRecollides>
+          <Percentatge>9,77510848632937E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>629.68</TonesRecollides>
+          <Percentatge>0,000355791347495484%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1769801,33</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2010">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>540.75</TonesRecollides>
+          <Percentatge>0,000303317671016589%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>450.04</TonesRecollides>
+          <Percentatge>0,000252436587451328%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>277.24</TonesRecollides>
+          <Percentatge>0,00015550955360636%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>213.95</TonesRecollides>
+          <Percentatge>0,000120008905619971%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>132.76</TonesRecollides>
+          <Percentatge>7,44677836415392E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>343.52</TonesRecollides>
+          <Percentatge>0,000192687353393654%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>27,98</TonesRecollides>
+          <Percentatge>1,56945509663322E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,51</TonesRecollides>
+          <Percentatge>2,86069370722996E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,09</TonesRecollides>
+          <Percentatge>6,11403164878561E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>945,69</TonesRecollides>
+          <Percentatge>5,30456751370648E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2933.53</TonesRecollides>
+          <Percentatge>0,00164547662960202%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>37.95</TonesRecollides>
+          <Percentatge>2,12869267037994E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>242.48</TonesRecollides>
+          <Percentatge>0,000136011962770416%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>4797,09</TonesRecollides>
+          <Percentatge>2,69078532863055E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4797.09</TonesRecollides>
+          <Percentatge>0,00269078532863055%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>62.05</TonesRecollides>
+          <Percentatge>3,48051067712979E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7730.62</TonesRecollides>
+          <Percentatge>0,00433626195823257%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.75</TonesRecollides>
+          <Percentatge>9,81610585814204E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>639</TonesRecollides>
+          <Percentatge>3,58428093905872E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1782784,36</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2011">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>963.69</TonesRecollides>
+          <Percentatge>0,000481403454344658%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>673.66</TonesRecollides>
+          <Percentatge>0,00033652134094348%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>372.23</TonesRecollides>
+          <Percentatge>0,000185944450819986%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>218.27</TonesRecollides>
+          <Percentatge>0,000109034992559649%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>183.64</TonesRecollides>
+          <Percentatge>9,17358594110689E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>405.66</TonesRecollides>
+          <Percentatge>0,00020264413378727%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>21,58</TonesRecollides>
+          <Percentatge>1,07801124269814E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>1028,29</TonesRecollides>
+          <Percentatge>5,13673855771117E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>5,86</TonesRecollides>
+          <Percentatge>2,92731505199773E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>1,11</TonesRecollides>
+          <Percentatge>5,54491417699229E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,15</TonesRecollides>
+          <Percentatge>5,74473090409111E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>84,84</TonesRecollides>
+          <Percentatge>4,238112781766E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>3959.98</TonesRecollides>
+          <Percentatge>0,00197817560744198%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>48.44</TonesRecollides>
+          <Percentatge>2,41978056516673E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>321.9</TonesRecollides>
+          <Percentatge>1,60802511132776E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>4214,58</TonesRecollides>
+          <Percentatge>2,10535895424038E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4214.58</TonesRecollides>
+          <Percentatge>0,00210535895424038%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>51.56</TonesRecollides>
+          <Percentatge>2,57563761230381E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>8174.56</TonesRecollides>
+          <Percentatge>0,00408353456168235%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.82</TonesRecollides>
+          <Percentatge>9,09166108299637E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>664.49</TonesRecollides>
+          <Percentatge>0,000331940542474739%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>2001834,41</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2012">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>881.52</TonesRecollides>
+          <Percentatge>0,00045010316498114%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>693.06</TonesRecollides>
+          <Percentatge>0,00035387569144413%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>287.84</TonesRecollides>
+          <Percentatge>0,00014697079477286%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>256.75</TonesRecollides>
+          <Percentatge>0,000131096274172915%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>160.19</TonesRecollides>
+          <Percentatge>8,17928419075335E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>274.93</TonesRecollides>
+          <Percentatge>0,000140378962642101%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>27,83</TonesRecollides>
+          <Percentatge>1,42099681021703E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>21,82</TonesRecollides>
+          <Percentatge>1,11412685587264E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>1,72</TonesRecollides>
+          <Percentatge>8,78230152200247E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>9,11</TonesRecollides>
+          <Percentatge>4,65155621310712E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>1127,92</TonesRecollides>
+          <Percentatge>5,75914740273083E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>7,69</TonesRecollides>
+          <Percentatge>3,92650573861622E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>1,29</TonesRecollides>
+          <Percentatge>6,58672614150185E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,09</TonesRecollides>
+          <Percentatge>5,56552829010622E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>3,89</TonesRecollides>
+          <Percentatge>1,98622982096451E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>3756.64</TonesRecollides>
+          <Percentatge>0,00191813634823345%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>47.18</TonesRecollides>
+          <Percentatge>2,4090057314423E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>305.02</TonesRecollides>
+          <Percentatge>0,000155742884316348%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>3897,32</TonesRecollides>
+          <Percentatge>1,98996740510062E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>307,66</TonesRecollides>
+          <Percentatge>1,57090865480191E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4204.98</TonesRecollides>
+          <Percentatge>0,00214705827058081%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>52.82</TonesRecollides>
+          <Percentatge>2,69698352553587E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7961.62</TonesRecollides>
+          <Percentatge>0,00406519461881426%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.77</TonesRecollides>
+          <Percentatge>9,03760098485138E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>646.45</TonesRecollides>
+          <Percentatge>0,000330076675517354%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1958484,34</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2013">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>842.08</TonesRecollides>
+          <Percentatge>0,000448501581398425%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>677.73</TonesRecollides>
+          <Percentatge>0,000360966863909788%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>267.44</TonesRecollides>
+          <Percentatge>0,000142441647977858%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>219.24</TonesRecollides>
+          <Percentatge>0,000116769768556183%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>136.14</TonesRecollides>
+          <Percentatge>7,25097440760754E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>367.6</TonesRecollides>
+          <Percentatge>1,95788026460741E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>24,07</TonesRecollides>
+          <Percentatge>1,28199613626497E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>15,01</TonesRecollides>
+          <Percentatge>7,99450020994484E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>1,31</TonesRecollides>
+          <Percentatge>6,9772120419905E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>17,94</TonesRecollides>
+          <Percentatge>9,55505221628318E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>1089,03</TonesRecollides>
+          <Percentatge>5,80030017564039E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>5,89</TonesRecollides>
+          <Percentatge>3,13708236086443E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,62</TonesRecollides>
+          <Percentatge>3,30219195880467E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,99</TonesRecollides>
+          <Percentatge>5,27285490196229E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>10,48</TonesRecollides>
+          <Percentatge>5,5817696335924E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>3675.59</TonesRecollides>
+          <Percentatge>0,00195766189384885%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>47.42</TonesRecollides>
+          <Percentatge>2,52564423687931E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>302.32</TonesRecollides>
+          <Percentatge>0,000161019140804166%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>3059,02</TonesRecollides>
+          <Percentatge>1,62926955577785E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>1016,4</TonesRecollides>
+          <Percentatge>5,41346436601462E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4075.42</TonesRecollides>
+          <Percentatge>0,00217061599237931%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>52.58</TonesRecollides>
+          <Percentatge>2,80047182570886E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7751.01</TonesRecollides>
+          <Percentatge>0,00412827788622815%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.75</TonesRecollides>
+          <Percentatge>9,3207031095293E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>637.52</TonesRecollides>
+          <Percentatge>0,000339550551222121%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1877540,76</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2014">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>779.68</TonesRecollides>
+          <Percentatge>0,000445411913101694%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>542.18</TonesRecollides>
+          <Percentatge>0,000309734033251432%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>240.64</TonesRecollides>
+          <Percentatge>0,000137471684240703%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>239.07</TonesRecollides>
+          <Percentatge>0,000136574782045483%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>124.6</TonesRecollides>
+          <Percentatge>7,11809003340744E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>314.96</TonesRecollides>
+          <Percentatge>0,000179928863316373%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>27,98</TonesRecollides>
+          <Percentatge>1,59842824345698E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>24,45</TonesRecollides>
+          <Percentatge>1,39676806835322E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>1,67</TonesRecollides>
+          <Percentatge>9,54029723578685E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>22,46</TonesRecollides>
+          <Percentatge>1,28308428692079E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>647,42</TonesRecollides>
+          <Percentatge>3,69855044095397E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>7,52</TonesRecollides>
+          <Percentatge>4,29599013252198E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,9</TonesRecollides>
+          <Percentatge>5,14147755222046E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,96</TonesRecollides>
+          <Percentatge>5,48424272236849E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>8,56</TonesRecollides>
+          <Percentatge>4,89011642744524E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2983.04</TonesRecollides>
+          <Percentatge>0,00170413702193064%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>41.53</TonesRecollides>
+          <Percentatge>2,37250625270795E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>252.14</TonesRecollides>
+          <Percentatge>0,000144041350001874%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>4050,01</TonesRecollides>
+          <Percentatge>2,31367061125204E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>149,64</TonesRecollides>
+          <Percentatge>8,54856334349188E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4199.65</TonesRecollides>
+          <Percentatge>0,00239915624468696%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>58.47</TonesRecollides>
+          <Percentatge>3,34024658309256E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7182.69</TonesRecollides>
+          <Percentatge>0,0041032932666176%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.66</TonesRecollides>
+          <Percentatge>9,48316970742885E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>607.11</TonesRecollides>
+          <Percentatge>0,000346826937414285%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1750469,57</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2015">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>728.37</TonesRecollides>
+          <Percentatge>0,000428987313008101%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>513.48</TonesRecollides>
+          <Percentatge>0,000302423775668136%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>237.29</TonesRecollides>
+          <Percentatge>0,000139756441786032%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>221.52</TonesRecollides>
+          <Percentatge>0,000130468401468422%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>123.43</TonesRecollides>
+          <Percentatge>7,26964373115174E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>327.68</TonesRecollides>
+          <Percentatge>0,000192993345039602%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>51,16</TonesRecollides>
+          <Percentatge>3,01316514044983E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>36,73</TonesRecollides>
+          <Percentatge>2,16328294778582E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>1,84</TonesRecollides>
+          <Percentatge>1,08370286521261E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>25,8</TonesRecollides>
+          <Percentatge>1,51953988709159E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>353,06</TonesRecollides>
+          <Percentatge>2,07941376952154E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>5,08</TonesRecollides>
+          <Percentatge>2,99196225830437E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>1,35</TonesRecollides>
+          <Percentatge>7,95108080454902E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>0,98</TonesRecollides>
+          <Percentatge>5,7718956951541E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>8,03</TonesRecollides>
+          <Percentatge>4,72942065633545E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2635.81</TonesRecollides>
+          <Percentatge>0,00155241024410654%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>37.8</TonesRecollides>
+          <Percentatge>2,22630262527372E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>225.75</TonesRecollides>
+          <Percentatge>0,000132959740120514%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>4290,66</TonesRecollides>
+          <Percentatge>2,52706550850713E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>45,69</TonesRecollides>
+          <Percentatge>2,69099912562848E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4336.35</TonesRecollides>
+          <Percentatge>0,00255397549976342%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>62.2</TonesRecollides>
+          <Percentatge>3,6633868595774E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>6972.16</TonesRecollides>
+          <Percentatge>0,00410638574386996%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.64</TonesRecollides>
+          <Percentatge>9,65909075515584E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>597.14</TonesRecollides>
+          <Percentatge>0,0003516969178984%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1697882,38</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2016">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>727.14</TonesRecollides>
+          <Percentatge>0,000425259295647463%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>450.66</TonesRecollides>
+          <Percentatge>0,000263563212278909%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>255.37</TonesRecollides>
+          <Percentatge>0,00014935014760499%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>224.25</TonesRecollides>
+          <Percentatge>0,000131149980813796%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>129.04</TonesRecollides>
+          <Percentatge>7,54675296508906E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>318.25</TonesRecollides>
+          <Percentatge>0,000186124777676658%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>80,79</TonesRecollides>
+          <Percentatge>4,72490833888364E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>41,06</TonesRecollides>
+          <Percentatge>2,40134591403097E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>1,55</TonesRecollides>
+          <Percentatge>9,06499309972725E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>23,12</TonesRecollides>
+          <Percentatge>1,35214606752061E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>338,84</TonesRecollides>
+          <Percentatge>1,98166597542683E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>7,12</TonesRecollides>
+          <Percentatge>4,16404844322955E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>1,25</TonesRecollides>
+          <Percentatge>7,31047830623166E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,03</TonesRecollides>
+          <Percentatge>6,02383412433488E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>11,89</TonesRecollides>
+          <Percentatge>6,95372696488755E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2611.38</TonesRecollides>
+          <Percentatge>0,00152723494714618%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>37.28</TonesRecollides>
+          <Percentatge>2,18027705005053E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>226.21</TonesRecollides>
+          <Percentatge>0,000132296263812213%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>3686,01</TonesRecollides>
+          <Percentatge>2,15571969132424E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>707,78</TonesRecollides>
+          <Percentatge>4,13936826846771E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4393.79</TonesRecollides>
+          <Percentatge>0,00256965651817101%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>62.72</TonesRecollides>
+          <Percentatge>3,6681055949348E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7005.17</TonesRecollides>
+          <Percentatge>0,00409689146531718%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.66</TonesRecollides>
+          <Percentatge>9,70831519067564E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>606.82</TonesRecollides>
+          <Percentatge>0,000354891555662999%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1709874,44</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2017">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>784.65</TonesRecollides>
+          <Percentatge>0,000446853113615432%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>468.87</TonesRecollides>
+          <Percentatge>0,000267018440554219%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>276.2</TonesRecollides>
+          <Percentatge>1,57294118371991E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>205.02</TonesRecollides>
+          <Percentatge>0,000116757567518557%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>130.93</TonesRecollides>
+          <Percentatge>7,4563790436078E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>369.51</TonesRecollides>
+          <Percentatge>0,000210433561475866%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>92,63</TonesRecollides>
+          <Percentatge>5,27521874902154E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>42,26</TonesRecollides>
+          <Percentatge>2,40667974018839E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>2,03</TonesRecollides>
+          <Percentatge>1,15607190548567E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>21,95</TonesRecollides>
+          <Percentatge>1,25003834115322E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>387,42</TonesRecollides>
+          <Percentatge>2,20633190947417E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>7,49</TonesRecollides>
+          <Percentatge>4,26550668575746E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>1,05</TonesRecollides>
+          <Percentatge>5,97968226975345E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,11</TonesRecollides>
+          <Percentatge>6,32137839945364E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>11,12</TonesRecollides>
+          <Percentatge>6,33276827044365E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2802.24</TonesRecollides>
+          <Percentatge>0,0015958576041518%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>38.53</TonesRecollides>
+          <Percentatge>2,19425864622476E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>243.69</TonesRecollides>
+          <Percentatge>0,000138779883077735%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>4470,08</TonesRecollides>
+          <Percentatge>2,54568172575043E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4470.08</TonesRecollides>
+          <Percentatge>0,00254568172575043%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>61.47</TonesRecollides>
+          <Percentatge>3,50067684877852E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7272.32</TonesRecollides>
+          <Percentatge>0,00414153932990223%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.73</TonesRecollides>
+          <Percentatge>9,85223840635568E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>632.43</TonesRecollides>
+          <Percentatge>0,000360164805510492%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1755946,14</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2018">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>744.74</TonesRecollides>
+          <Percentatge>0,000419471079940557%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>447.18</TonesRecollides>
+          <Percentatge>0,000251871898283721%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>283.11</TonesRecollides>
+          <Percentatge>0,000159460291433213%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>230.2</TonesRecollides>
+          <Percentatge>1,29658998579795E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>146.29</TonesRecollides>
+          <Percentatge>8,23971107829633E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>430.22</TonesRecollides>
+          <Percentatge>0,00024231926311468%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>86,59</TonesRecollides>
+          <Percentatge>4,87713843919393E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>43,86</TonesRecollides>
+          <Percentatge>2,47039256199383E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>2,38</TonesRecollides>
+          <Percentatge>1,34052309565557E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>23,63</TonesRecollides>
+          <Percentatge>1,3309479306866E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>409,62</TonesRecollides>
+          <Percentatge>2,30716416152283E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>10,71</TonesRecollides>
+          <Percentatge>6,03235393045005E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>0,86</TonesRecollides>
+          <Percentatge>4,84390698430162E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,25</TonesRecollides>
+          <Percentatge>7,04056247718259E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>5,17</TonesRecollides>
+          <Percentatge>2,91197664056272E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2865.81</TonesRecollides>
+          <Percentatge>0,00161415314821877%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>39.14</TonesRecollides>
+          <Percentatge>2,20454092285541E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>249.09</TonesRecollides>
+          <Percentatge>0,000140298696595313%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>4455,26</TonesRecollides>
+          <Percentatge>2,5094029105674E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4455.26</TonesRecollides>
+          <Percentatge>0,0025094029105674%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>60.86</TonesRecollides>
+          <Percentatge>3,42790905889066E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7321.07</TonesRecollides>
+          <Percentatge>0,00412355605878617%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.74</TonesRecollides>
+          <Percentatge>9,80046296823817E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>636.34</TonesRecollides>
+          <Percentatge>0,00035841532213843%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1775426,33</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre" />
+      <Resum Municipi="Deltebre" Any="2019">
+        <Tipus_Deixalla Tipus_Deixalla="mat_ria_org_nica">
+          <TonesRecollides>754.68</TonesRecollides>
+          <Percentatge>0,000412596045318188%</Percentatge>
+        </Tipus_Deixalla>
+      </Resum>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="poda_i_jardineria">
+          <TonesRecollides>548.32</TonesRecollides>
+          <Percentatge>0,000299775618234044%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="paper_i_cartr">
+          <TonesRecollides>298.16</TonesRecollides>
+          <Percentatge>0,000163009006296802%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="vidre">
+          <TonesRecollides>246.99</TonesRecollides>
+          <Percentatge>0,000135033520476413%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="envasos_lleugers">
+          <TonesRecollides>160.76</TonesRecollides>
+          <Percentatge>8,78901524425609E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="residus_voluminosos_fusta">
+          <TonesRecollides>458.15</TonesRecollides>
+          <Percentatge>0,000250478186996512%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="raee">
+          <TonesRecollides>131,89</TonesRecollides>
+          <Percentatge>7,21064456683836E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="ferralla">
+          <TonesRecollides>57,5</TonesRecollides>
+          <Percentatge>3,14362015765567E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="olis_vegetals">
+          <TonesRecollides>1,89</TonesRecollides>
+          <Percentatge>1,03329427790769E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="t_xtil">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="runes">
+          <TonesRecollides>301,3</TonesRecollides>
+          <Percentatge>1,64725696261157E-06%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="res_especials_en_petites">
+          <TonesRecollides>0,17</TonesRecollides>
+          <Percentatge>9,29418133567763E-10%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="piles">
+          <TonesRecollides>1,57</TonesRecollides>
+          <Percentatge>8,58344982177287E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="medicaments">
+          <TonesRecollides>1,03</TonesRecollides>
+          <Percentatge>5,63118045632233E-09%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="altres_recollides_selectives">
+          <TonesRecollides>10,2</TonesRecollides>
+          <Percentatge>5,57650880140657E-08%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="total_recollida_selectiva">
+          <TonesRecollides>2972.61</TonesRecollides>
+          <Percentatge>0,0016251750811911%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="r_s_r_m_total">
+          <TonesRecollides>40.25</TonesRecollides>
+          <Percentatge>2,20053411035897E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any_recollida_selectiva">
+          <TonesRecollides>258.89</TonesRecollides>
+          <Percentatge>0,000141539447411387%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_dip_sit">
+          <TonesRecollides>4412,84</TonesRecollides>
+          <Percentatge>2,41257265678421E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_incineraci">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_a_tractament_mec_nic">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="resta_sense_desglossar">
+          <TonesRecollides>0</TonesRecollides>
+          <Percentatge>0%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="suma_fracci_resta">
+          <TonesRecollides>4412.84</TonesRecollides>
+          <Percentatge>0,00241257265678421%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="f_r_r_m">
+          <TonesRecollides>59.75</TonesRecollides>
+          <Percentatge>3,26663138121611E-05%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="generaci_residus_municipal">
+          <TonesRecollides>7385.45</TonesRecollides>
+          <Percentatge>0,00403774773797531%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_dia">
+          <TonesRecollides>1.76</TonesRecollides>
+          <Percentatge>9,62221126517213E-07%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="kg_hab_any">
+          <TonesRecollides>643.22</TonesRecollides>
+          <Percentatge>0,000351659018749092%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+      <nomComarca nomComarca="Baix Ebre">
+        <Tipus_Deixalla Tipus_Deixalla="TOTAL">
+          <TonesRecollides>1829101,39</TonesRecollides>
+          <Percentatge>100%</Percentatge>
+        </Tipus_Deixalla>
+      </nomComarca>
+    </nomMunicipi>
+  </ResumRecullidaDades>
+</Comarques>
+<!--Fi del resum dels residus de cada municipi-->

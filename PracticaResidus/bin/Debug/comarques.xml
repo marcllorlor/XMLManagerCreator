@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Totes les comarques-->
+<Llibres>
+  <nomComarca>Alt Camp</nomComarca>
+  <nomComarca>Alt Empordà</nomComarca>
+  <nomComarca>Alt Penedès</nomComarca>
+  <nomComarca>Alt Urgell</nomComarca>
+  <nomComarca>Alta Ribagorça</nomComarca>
+  <nomComarca>Anoia</nomComarca>
+  <nomComarca>Bages</nomComarca>
+  <nomComarca>Baix Camp</nomComarca>
+  <nomComarca>Baix Ebre</nomComarca>
+  <nomComarca>Baix Empordà</nomComarca>
+  <nomComarca>Baix Llobregat</nomComarca>
+  <nomComarca>Baix Penedès</nomComarca>
+  <nomComarca>Barcelonès</nomComarca>
+  <nomComarca>Berguedà</nomComarca>
+  <nomComarca>Cerdanya</nomComarca>
+  <nomComarca>Conca de Barberà</nomComarca>
+  <nomComarca>Garraf</nomComarca>
+  <nomComarca>Garrigues</nomComarca>
+  <nomComarca>Garrotxa</nomComarca>
+  <nomComarca>Gironès</nomComarca>
+  <nomComarca>Maresme</nomComarca>
+  <nomComarca>Moianès</nomComarca>
+  <nomComarca>Montsià</nomComarca>
+  <nomComarca>NA</nomComarca>
+  <nomComarca>Noguera</nomComarca>
+  <nomComarca>Osona</nomComarca>
+  <nomComarca>Pallars Jussà</nomComarca>
+  <nomComarca>Pallars Sobirà</nomComarca>
+  <nomComarca>Pla de l'Estany</nomComarca>
+  <nomComarca>Pla d'Urgell</nomComarca>
+  <nomComarca>Priorat</nomComarca>
+  <nomComarca>Ribera d'Ebre</nomComarca>
+  <nomComarca>Ripollès</nomComarca>
+  <nomComarca>Segarra</nomComarca>
+  <nomComarca>Segrià</nomComarca>
+  <nomComarca>Selva</nomComarca>
+  <nomComarca>Solsonès</nomComarca>
+  <nomComarca>Tarragonès</nomComarca>
+  <nomComarca>Terra Alta</nomComarca>
+  <nomComarca>Urgell</nomComarca>
+  <nomComarca>Val d'Aran</nomComarca>
+  <nomComarca>Vallès Occidental</nomComarca>
+  <nomComarca>Vallès Oriental</nomComarca>
+</Llibres>
+<!--Fi de totes les comarques-->

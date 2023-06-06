@@ -1,0 +1,11 @@
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\bin\Debug\PracticaResidus.exe.config
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\bin\Debug\PracticaResidus.exe
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\bin\Debug\PracticaResidus.pdb
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\obj\Debug\PracticaResidus.csproj.AssemblyReference.cache
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\obj\Debug\PracticaResidus.csproj.SuggestedBindingRedirects.cache
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\obj\Debug\PracticaResidus.FrMain.resources
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\obj\Debug\PracticaResidus.Properties.Resources.resources
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\obj\Debug\PracticaResidus.csproj.GenerateResource.cache
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\obj\Debug\PracticaResidus.csproj.CoreCompileInputs.cache
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\obj\Debug\PracticaResidus.exe
+C:\DAM2\M6UF3\Practica3\PracticaResidus\PracticaResidus\obj\Debug\PracticaResidus.pdb
